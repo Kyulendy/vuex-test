@@ -13,6 +13,13 @@ export default {
   name: 'home',
   components: {
     HelloWorld
+  },
+  data: function () {
+    return {
+    }
+    // return sourceOfTruth = {
+    //   'lol' : "KEK"
+    // };
   }
 }
 </script>
